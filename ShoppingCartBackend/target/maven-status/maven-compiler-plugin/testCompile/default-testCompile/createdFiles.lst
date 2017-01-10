@@ -1,0 +1,7 @@
+com\niit\shoppingcart\testcases\OrderTestCase.class
+com\niit\shoppingcart\testcases\CartTestCase.class
+com\niit\shoppingcartbackend\AppTest.class
+com\niit\shoppingcart\testcases\SupplierTestCase.class
+com\niit\shoppingcart\testcases\CategoryTestCase.class
+com\niit\shoppingcart\testcases\ProductTestCase.class
+com\niit\shoppingcart\testcases\UserTestCase.class

@@ -1,0 +1,19 @@
+
+Jan 10, 2017 12:35:26.70 NEW SESSION
+Jan 10, 2017 12:35:26.70 1484031926693	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Jan 10, 2017 12:46:18.57 1484032578569	addons.repository	WARN	Search failed when repopulating cache
+Jan 10, 2017 12:46:18.71 1484032578703	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.71 1484032578704	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.71 1484032578705	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.71 1484032578707	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.71 1484032578707	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.71 1484032578709	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.72 1484032578713	addons.update-checker	WARN	HTTP Request failed for an unknown reason
+Jan 10, 2017 12:46:18.73 1484032578725	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+Jan 10, 2017 12:46:18.73 1484032578726	addons.manager	WARN	Failed to update system addons: Error: Failed downloading XML, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:111:16) JS Stack trace: downloadXML/</fail@ProductAddonChecker.jsm:111:16
+Jan 10, 2017 12:48:18.76 *************************
+Jan 10, 2017 12:48:18.76 A coding exception was thrown and uncaught in a Task.
+Jan 10, 2017 12:48:18.76 
+Jan 10, 2017 12:48:18.76 Full message: TypeError: NetworkError when attempting to fetch resource.
+Jan 10, 2017 12:48:18.76 Full stack: 
+Jan 10, 2017 12:48:18.76 *************************

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.UserDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.ProductDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.SupplierDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.OrderDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.CartDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.PaymentDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.shoppingcart.daoimpl.CategoryDAOImpl"/>
+<fullyQualifiedTypeName name="com.niit.util.FileUtil"/>
+</qualifiedTypeNameHistroy>
