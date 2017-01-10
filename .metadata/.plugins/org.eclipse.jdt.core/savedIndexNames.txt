@@ -20,7 +20,6 @@ INDEX VERSION 1.127+D:\onlineshopping\.metadata\.plugins\org.eclipse.jdt.core
 2332919143.index
 704646834.index
 3380536885.index
-3097952230.index
 563233376.index
 13817577.index
 1811265775.index
